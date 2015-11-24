@@ -6,14 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Spencer Streibel",
+  "author": "Spencer Streibel <spencer@livioradio.com>",
   "license": "ISC",
   "dependencies": {
-    "//": "twilio': '^2.5.2 (paid service. likely will not use)",
     "express": "^4.13.3",
     "mandrill": "^0.1.0",
     "mandrill-api": "^1.0.45",
-    "mongoose": "^4.2.5",
-    "textbelt": "0.0.2"
-  }
+    "mongoose": "^4.2.6",
+    "textbelt": "0.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerStreibel/seedio_notifications.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SpencerStreibel/seedio_notifications/issues"
+  },
+  "homepage": "https://github.com/SpencerStreibel/seedio_notifications#readme"
 }
