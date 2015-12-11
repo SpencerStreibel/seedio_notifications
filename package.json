@@ -13,6 +13,7 @@
     "mandrill": "^0.1.0",
     "mandrill-api": "^1.0.45",
     "mongoose": "^4.2.6",
+    "node-gcm": "^0.13.0",
     "textbelt": "0.0.3"
   },
   "devDependencies": {},
